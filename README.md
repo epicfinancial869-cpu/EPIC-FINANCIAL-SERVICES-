@@ -408,8 +408,7 @@ API ENDPOINTS
 DESIGN
 
 Theme:
-Black
-Gold
+Royal Blue
 White
 
 Institutional style inspired by:
